@@ -8,9 +8,7 @@ describe "working with hashes" do
       it "creates an empty hash and returns it" do
 
         expect(new_hash).to eq({})
-      end
-    end
-  end
+      
 
   describe "instantiating a hash with ONE key-value pair" do
     describe "#actor" do
