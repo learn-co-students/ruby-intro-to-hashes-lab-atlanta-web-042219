@@ -145,6 +145,5 @@ describe "building a multidimensional monopoly hash" do
         expect(monopoly_with_fourth_tier.values[0][:names].keys[3]).to eq(:shortline)
         expect(monopoly_with_fourth_tier.values[0][:names].values[3].has_key?("mortgage_value")).to be true
         expect(monopoly_with_fourth_tier.values[0][:names].values[3].values[0]).to eq("$800")
-      end
-  
+     
 end
