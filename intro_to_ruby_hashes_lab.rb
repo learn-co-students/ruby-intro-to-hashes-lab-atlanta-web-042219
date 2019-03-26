@@ -28,6 +28,4 @@ monopoly =  {
       {
         "mortgage_value"=>"$800"
       }
-    }
-  }
-}
+ 
