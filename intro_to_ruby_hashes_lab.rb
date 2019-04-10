@@ -33,7 +33,7 @@ def monopoly_with_third_tier
         shortline: {}
       }, 
       rent_in_dollars: {
-        one_pice_owned: 25, 
+        one_piece_owned: 25, 
         two_pieces_owned: 50, 
         three_pieces_owned: 100, 
         four_pieces_owned: 200
@@ -54,7 +54,7 @@ def monopoly_with_fourth_tier
         shortline: {"mortgague_value" => "$800"}
       }, 
       rent_in_dollars: {
-        one_pice_owned: 25, 
+        one_piece_owned: 25, 
         two_pieces_owned: 50, 
         three_pieces_owned: 100, 
         four_pieces_owned: 200
